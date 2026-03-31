@@ -1,0 +1,37 @@
+Vul dit aan met wat nog mist
+
+Kleurthema
+
+PRIMARY
+1. a2c614
+2. 009fe3
+3. 0069b4
+
+ADDITIVE
+74aa2e
+1d7839
+
+FONT: 
+Verdana
+
+Informatie in het systeem
+
+WERKDAGEN // Eventueel rooster
+Functie in het bedrijf
+Bevoegdheden (wat mag de persoon doen in het bedrijf *bijv mag hij contact hebben met gemeente over kind of niet*)
+op welke Afdeling werkt hij of zij
+Persoonlijk gekozen foto
+Verjaardag / geboorte datum
+BHV
+Bijzonderheden
+Persoonlijk tekst over zichzelf
+hiërarchie
+
+Rollen binnen KOLB:
+VO
+TEF
+PO
+Administratief
+Extern
+Ambulant
+Directie
